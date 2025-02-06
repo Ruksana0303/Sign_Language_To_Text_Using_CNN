@@ -94,7 +94,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Acknowledgments
 - [Ruksana0303](https://github.com/Ruksana0303) for initiating this project.
-- [Kaggle](https://www.kaggle.com) for datasets (if used).
 - Open-source contributors and libraries.
 
 ---
